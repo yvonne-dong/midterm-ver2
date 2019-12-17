@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "//yvonne-dong.github.io/midterm-ver2/precache-manifest.93186ac49fe4b4c3327cc2f716c7828d.js"
+  "//yvonne-dong.github.io/midterm-ver2/precache-manifest.cfb98d75f2d060de852f7d9efca0f449.js"
 );
 
 self.addEventListener('message', (event) => {
