@@ -3,7 +3,7 @@
   height: 30vh;
   float: right;
   margin-right: 8vw;
-  margin-top: 10%;
+  margin-top: 2%;
 }
 
 .sec2-titles{
@@ -18,7 +18,7 @@
 }
 
 .sec2-expand{
-  font-size: calc(0.1vw + 1em);
+  font-size: 1.3vw;
 }
 
 .sec2-artContainer{
@@ -36,8 +36,12 @@
 .sec2-expand{
   margin-top: 25%;
   width: 90%;
-  height: 50%;
+  height: 60%;
   background-color: rgba(255,255,255,0.8); 
+}
+
+.sec2-description{
+  width: 50%;
 }
 
 .plan-img{
@@ -45,5 +49,4 @@
   height:100%; 
   z-index: -1;
   top: 0;  
-  left: 10vw;  
 }

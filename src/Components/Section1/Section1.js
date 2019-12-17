@@ -13,7 +13,7 @@ class Section1 extends Component {
             },
             {
                 id: 's1-2', title: 'Of Land and Dreams', year: 2017, artist: 'Teri Rueb and Alan Price with the Of Land and Dreams collective',
-                medium: 'Web and mobile application',
+                medium: 'Web and mobile application, visual projection',
                 text: 'Of Land and Dreams is a collaborative mapping project on creating a portrait of Dakotas in the view of local community. The work uses a mobile application to invite audience submitting images, videos, sounds and texts that can be associated with representing the space. Each submission will become a tile on the map, preserving a piece of documentation on the local urban environment in the digital space.',
                 img: 'http://terirueb.net/wp-content/uploads/2017/08/Of_Land_and_Dreams_banner-1024x281.jpg'
             },
@@ -22,7 +22,20 @@ class Section1 extends Component {
                 medium: 'Google Street View, Unity, cadence monitor, stationary bicycle',
                 text: 'CycleVR is a VR installation of cycling in Google Street View. Puzey shifts the primary purposes of exercising station for world exploration, assigns an indoor device with outdoor characteristics. Through exploring a virtual representation of geographical locations in interactive panorama images, CycleVR proposes an alternative way of exploring the real world virtually.',
                 img: 'https://l3apq3bncl82o596k2d1ydn1-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/cycle-britain-vr-810x572.jpg'
+            },
+            {
+                id: 's1-4', title: 'Western Fronts', year: 2017, artist: 'Rick Silva, Sound design by Kuedo + Holy Other',
+                medium: 'Single Channel 4K Video with Audio',
+                text: 'IN PROGRESS',
+                img: 'https://www.ignant.com/wp-content/uploads/2019/07/ignant-art-rick-silva-western-fronts-7-2880x1620.jpg'
+            },
+            {
+                id: 's1-5', title: 'Something Similar to Me / About Seeing Things', year: 2016, artist: 'Akihiko Taniguchi',
+                medium: '3D scanning, visual projection',
+                text: 'IN PROGRESS',
+                img: 'http://okikata.org/a/sstm/img/001.JPG'
             }
+
         ],
         selected: null,
     }
@@ -73,7 +86,7 @@ class Section1 extends Component {
 
         return (
             <div className="sec1-artworks">
-                <img className="plan-img" src="https://66.media.tumblr.com/c6240b497d1ea45fea66826eb51f92c1/b9de8cf3bf4db4e3-18/s1280x1920/e4fbfddf80aac8ddcbf4c03845ecbb34fbfd7f76.png" alt="" />
+                <img className="plan-img" src="https://66.media.tumblr.com/62c2f8eb3ecf536d11eb3c0cf71e1469/b9de8cf3bf4db4e3-93/s1280x1920/a01f2c23a00367515a9f2e456c5770876b77a096.png" alt="" />
                 {artworks}
             </div>
         );

@@ -22,6 +22,18 @@ class Section2 extends Component {
                 medium: 'Web browser, web server, live stream displays',
                 text: 'Alpha 3.4 is a performance that reflects the infrastructure of the Internet. Documenting the entire walk from the exhibition site to the server of its website, Charles Lim Li Yong and Woon Tien Wei explores the physical presence of a seemingly virtual place. The gallery installation consists of a webcam live-stream of the server and four screens displaying the walking journey. The screens show the walker’s location interpreted as IP address, a web page of the IP address, the location on a map, and the traceroute to the IP address.',
                 img: 'http://universes-in-universe.de/car/documenta/11/brau/img/tsunamii-1.jpg'
+            },
+            {
+                id: 's2-4', title: 'One Thousand And One Market Caps', year: 2018, artist: 'Aram Bartholl',
+                medium: 'wallpaper, books, printed coffee mugs, coffee machine, surveillance camera, table, chairs',
+                text: 'IN PROGRESS',
+                img: 'https://arambartholl.com/wwwppp/wp-content/uploads/2018/07/1001-market-caps-melle-biennale-aram-bartholl-2018-02-600x400.jpg'
+            },
+            {
+                id: 's2-5', title: 'Offline Monochrome', year: 2013, artist: 'Aram Bartholl',
+                medium: 'routers',
+                text: 'IN PROGRESS',
+                img: 'https://arambartholl.com/wwwppp/wp-content/uploads/2018/05/Aram_Bartholl_Offline_Monochrome_01-800x533.jpg'
             }
         ],
         selected: null,
@@ -71,7 +83,7 @@ class Section2 extends Component {
 
         return (
             <div className="sec2-artworks">
-                <img className="plan-img" src="https://66.media.tumblr.com/9b726771a1b5af6bdf38e1c912512fdc/b9de8cf3bf4db4e3-1a/s1280x1920/588d03b46cb50cb8f5e973c5a173ccd614ddeba4.png" alt="" />
+                <img className="plan-img" src="https://66.media.tumblr.com/49482d1ec3e53e47abbf949dcaf32d47/b9de8cf3bf4db4e3-ec/s1280x1920/80c88a119ebf88f57cf0d3fdfc8612f2059886f2.png" alt="" />
                 {artworks}
             </div>
         );

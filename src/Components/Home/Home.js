@@ -10,12 +10,11 @@ const Home = () => (
     </div>
     <div className="concept-container">
       <h1>Exhibition concept:</h1>
-      <h2 id="concept">Liminality: the Intersection of Digital and Physical Space is <br></br>a thematic exhibition 
-        about the connection <br></br> between digital and physical, virtual and real worlds. <br></br>
+      <h2 id="concept">Liminality: the Intersection of Digital and Physical Space is a thematic exhibition 
+        about the connection between digital and physical, virtual and real worlds. <br></br>
         <br></br>
-        It features works by 11 artists and collectives in the form of gallery displays and installations, 
-        AR app platform showcases, and a special event. 
-        The exhibition is divided into three sections: tangible Internet, beyond virtuality, and extended reality.</h2>
+        It features works by 12 artists and collectives in the form of gallery displays and installations and special programs. 
+        The exhibition is divided into three sections: Tangible Internet, Extended Reality and Beyond Simulation.</h2>
     </div>
   </div>
 );

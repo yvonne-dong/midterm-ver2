@@ -71,7 +71,7 @@ class Section3 extends Component {
 
         return (
             <div className="sec3-artworks">
-                <img className="plan-img" src="https://66.media.tumblr.com/6a99f83b2932c5ec3ec419a172d0b22a/b9de8cf3bf4db4e3-2b/s1280x1920/2640942addc0710099a5bb6f91d8e527d5a911d1.png" alt="" />
+                <img className="plan-img" src="https://66.media.tumblr.com/9f0b6fdcca0edce93b112abd5318bc71/b9de8cf3bf4db4e3-0c/s1280x1920/2a19250768001fd3a6316c1f121e476f08db4828.png" alt="" />
                 {artworks}
             </div>
         );

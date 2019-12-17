@@ -19,6 +19,7 @@
 }
 
 .concept-container{
+    width: 90%;
     height: 100vh;
     margin-left: 2vw;
     font-size: 1.8vw;

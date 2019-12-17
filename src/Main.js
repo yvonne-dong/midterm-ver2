@@ -4,6 +4,7 @@ import Home from "./Components/Home/Home"
 import Section1 from './Components/Section1/Section1'
 import Section2 from './Components/Section2/Section2'
 import Section3 from './Components/Section3/Section3'
+import SpecialP from './Components/SpecialPrograms/Special'
 import './App.css';
 
 const Main = () => (
@@ -13,6 +14,7 @@ const Main = () => (
       <Route path='/sec1' component={Section1} />
       <Route path='/sec2' component={Section2} />
       <Route path='/sec3' component={Section3} />
+      <Route path='/spec' component={SpecialP} />
     </Switch>
   </main>
 )
