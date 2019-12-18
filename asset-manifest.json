@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "//yvonne-dong.github.io/midterm-ver2/static/css/main.e32f13af.chunk.css",
-    "main.js": "//yvonne-dong.github.io/midterm-ver2/static/js/main.0b317f66.chunk.js",
-    "main.js.map": "//yvonne-dong.github.io/midterm-ver2/static/js/main.0b317f66.chunk.js.map",
+    "main.css": "//yvonne-dong.github.io/midterm-ver2/static/css/main.580ab3ee.chunk.css",
+    "main.js": "//yvonne-dong.github.io/midterm-ver2/static/js/main.9faa9f3d.chunk.js",
+    "main.js.map": "//yvonne-dong.github.io/midterm-ver2/static/js/main.9faa9f3d.chunk.js.map",
     "runtime-main.js": "//yvonne-dong.github.io/midterm-ver2/static/js/runtime-main.a3e78260.js",
     "runtime-main.js.map": "//yvonne-dong.github.io/midterm-ver2/static/js/runtime-main.a3e78260.js.map",
-    "static/js/2.6da17494.chunk.js": "//yvonne-dong.github.io/midterm-ver2/static/js/2.6da17494.chunk.js",
-    "static/js/2.6da17494.chunk.js.map": "//yvonne-dong.github.io/midterm-ver2/static/js/2.6da17494.chunk.js.map",
+    "static/js/2.12a50644.chunk.js": "//yvonne-dong.github.io/midterm-ver2/static/js/2.12a50644.chunk.js",
+    "static/js/2.12a50644.chunk.js.map": "//yvonne-dong.github.io/midterm-ver2/static/js/2.12a50644.chunk.js.map",
     "index.html": "//yvonne-dong.github.io/midterm-ver2/index.html",
-    "precache-manifest.cfb98d75f2d060de852f7d9efca0f449.js": "//yvonne-dong.github.io/midterm-ver2/precache-manifest.cfb98d75f2d060de852f7d9efca0f449.js",
+    "precache-manifest.7f95169c4a1d4d76014ed29c971824a4.js": "//yvonne-dong.github.io/midterm-ver2/precache-manifest.7f95169c4a1d4d76014ed29c971824a4.js",
     "service-worker.js": "//yvonne-dong.github.io/midterm-ver2/service-worker.js",
-    "static/css/main.e32f13af.chunk.css.map": "//yvonne-dong.github.io/midterm-ver2/static/css/main.e32f13af.chunk.css.map"
+    "static/css/main.580ab3ee.chunk.css.map": "//yvonne-dong.github.io/midterm-ver2/static/css/main.580ab3ee.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.a3e78260.js",
-    "static/js/2.6da17494.chunk.js",
-    "static/css/main.e32f13af.chunk.css",
-    "static/js/main.0b317f66.chunk.js"
+    "static/js/2.12a50644.chunk.js",
+    "static/css/main.580ab3ee.chunk.css",
+    "static/js/main.9faa9f3d.chunk.js"
   ]
 }
