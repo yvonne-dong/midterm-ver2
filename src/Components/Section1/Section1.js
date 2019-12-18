@@ -26,13 +26,13 @@ class Section1 extends Component {
             {
                 id: 's1-4', title: 'Western Fronts', year: 2017, artist: 'Rick Silva, Sound design by Kuedo + Holy Other',
                 medium: 'Single Channel 4K Video with Audio',
-                text: 'IN PROGRESS',
+                text: 'Western fronts is a critique on the economic and moral issues related to the situations of borders and protection of the portrayed four western national monuments. In December 2017, the United States Department of Interior carried out the actions on reducing and eliminating protection of public lands and sacred indigenous sites, allowing mining companies to have access to the underground minerals and oil resources. By revealing the problem and reality that national monuments are encountering through overlaying digital models, Silva creates an extension of the environment and provided an alternative view on the economical and political issue.',
                 img: 'https://www.ignant.com/wp-content/uploads/2019/07/ignant-art-rick-silva-western-fronts-7-2880x1620.jpg'
             },
             {
                 id: 's1-5', title: 'Something Similar to Me / About Seeing Things', year: 2016, artist: 'Akihiko Taniguchi',
-                medium: '3D scanning, visual projection',
-                text: 'IN PROGRESS',
+                medium: '3D scanning, interactive essay',
+                text: 'Something Similar to Me / About Seeing Things is an interactive essay on identity in the digital age. Viewers can walk through the scene by controlling the avatar - 3D scanning of the artist in the simulation. The objects and landscapes are fragmented reconstruction of the artist’s daily life. Something Similar to Me recontextualizes 3D scanning of ordinary objects and explored the act of seeing and perceiving in the digital space.',
                 img: 'http://okikata.org/a/sstm/img/001.JPG'
             }
 

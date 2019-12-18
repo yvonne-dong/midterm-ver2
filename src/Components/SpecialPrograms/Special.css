@@ -17,7 +17,7 @@
 }
 
 .spec-artworks{
-    width: 40vw;
+    width: 30vw;
     height: 30vh;
     float: right;
     margin-right: 8vw;
@@ -45,8 +45,8 @@
 }
 
 .spec-titles:hover{
-    color: rgb(87, 43, 25);
-    background-color: rgb(87, 43, 25);
+    color: cornflowerblue;
+    background-color: cornflowerblue;
     cursor: pointer;
     transition: all 0.5s ease;
 }

@@ -7,20 +7,20 @@ class Section3 extends Component {
         sec3: [
             {
                 id: 's3-1', title: 'Do Androids Dream of Electric Cows?', year: 2017, artist: 'Baoyang Chen',
-                medium: 'VR, mirror maze, and sound installation',
-                text: 'Do Androids Dream of Electric Cows? disrupts the immersive and enclosed environment that VR exhibits with its onsite mirror glass structure. Presenting the experience that connects digital simulation with physical barriers, Chen explores the ontology and definition of “virtual reality”. The displayed virtual space is independent from the structure, imposing a restriction and dilemma on how the audience would navigate around the space. The mirror glass walls expose the participants movements to outsiders, integrating their actions as performance that completes the experience.',
+                medium: 'VR, mirror maze, sound installation',
+                text: 'Do Androids Dream of Electric Cows? disrupts the immersive and enclosed environment that VR exhibits with its onsite mirror glass structure. Presenting the experience that connects digital simulation with physical barriers, Chen explores the ontology and definition of “virtual reality”. The displayed virtual space is independent from the structure, imposing a restriction and dilemma on how the audience would navigate around the space. The mirror glass walls expose participants’ movements to outside viewers, and integrate this connection to complete the installation.',
                 img: 'https://freight.cargo.site/t/original/i/b706b1bc7a8cc7e8eefb266627b66e17fc348293424ab23d2df5a9243dc78016/BCHEN_04.jpg'
             },
             {
                 id: 's3-2', title: 'Studio Visit', year: 2018, artist: 'Theo Triantafyllidis',
-                medium: 'Prints on Plywood, HDTVs on Wooden stands Room, Scale Tracking, Gaming PC, Performance Documentation',
-                text: 'IN PROGRESS',
-                img: 'https://miro.medium.com/max/2400/0*hpe87LoVQNe8OkxU.jpg'
+                medium: 'Prints on plywood, HDTVs on wooden stands room, scale tracking, gaming PC, performance documentation',
+                text: 'The installation of Studio Visit is a mixed reality experience about simulation and digital presence of the self. The installation combines sculptures with a virtual studio space showing the artist, an Ork avatar, working on digital models of those sculptures. Triantafyllidis breaks the physical-virtual separation through bringing objects across the border. By queering the Ork aesthetics, Triantafyllidis seeks the identity of gender and avatar presentations in the emerging digital social space.',
+                img: 'http://slimetech.org/files/image45.jpg'
             },
             {
-                id: 's3-3', title: 'Hyper-Reality', year: 2016, artist: 'Matsuda Keiichi',
-                medium: '3D Video',
-                text: 'IN PROGRESS',
+                id: 's3-3', title: 'Hyper-Reality', year: 2016, artist: 'Keiichi Matsuda',
+                medium: '3D renderings, video',
+                text: 'Hyper-Reality depicts a speculative future where the physical and virtual world has no separations, and the world is overloaded with augmented information and network connections. While the merging of digital space and reality saturated daily experience and pushed information accessibility to another level, Matsuda highlights the underlying concerns of the tendency. The artist argues that when this integrated world present convenience, it is also manipulating the ways people understand reality.',
                 img: 'http://hyper-reality.co/assets/HQ_images/hyper-reality_02.jpg'
             }
         ],

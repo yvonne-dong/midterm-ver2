@@ -14,31 +14,8 @@
   cursor: pointer;
   transition: all 0.5s ease;
   color: white;
-}
-
-#menu-home:hover{
-  background-color: rgb(80, 80, 80);
-  border: 2px solid rgb(80, 80, 80);
-}
-
-#menu-sec1:hover{
-  background-color: rgb(118, 177, 235);
-  border: 2px solid rgb(118, 177, 235);
-}
-
-#menu-sec2:hover{
-  background-color: rgb(135, 137, 225);
-  border: 2px solid rgb(135, 137, 225);
-}
-
-#menu-sec3:hover{
-  background-color: rgb(255, 162, 0);
-  border: 2px solid rgb(255, 162, 0);
-}
-
-#menu-spec:hover{
-  background-color: rgb(87, 43, 25);
-  border: 2px solid rgb(87, 43, 25);
+  background-color: cornflowerblue;
+  border: 2px solid cornflowerblue;
 }
 
 .App {

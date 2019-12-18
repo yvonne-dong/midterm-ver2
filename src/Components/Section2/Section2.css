@@ -27,8 +27,8 @@
 }
 
 .sec2-titles:hover{
-  color: rgb(135, 137, 225);
-  background-color: rgb(135, 137, 225);
+  color: cornflowerblue;
+  background-color: cornflowerblue;
   cursor: pointer;
   transition: all 0.5s ease;
 }
